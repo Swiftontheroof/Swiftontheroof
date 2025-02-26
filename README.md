@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Swiftontheroof
 - 👀 I’m interested in coomputer programming,playing games and exploring the world
 - 🌱 I’m currently learning coomputer programming,hoping to discover some knowledge about programming
-- 💞️ I’m looking to find a kind teacher to lead me about programming(Im really a fresh man,understand narly nothing)
+- 💞️ I’m looking to find a kind teacher to lead me about programming(Im really a fresh man,understand nearly nothing)
 - 📫 How to reach me :
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
